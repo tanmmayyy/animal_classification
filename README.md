@@ -296,9 +296,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Contact
 
 For questions, suggestions, or collaborations:
-- **Project Repository**: [github.com/tanmmayyy]
-- **Email**: [jaintanmay543@gmailc.om]
-- **LinkedIn**: [https://www.linkedin.com/in/tanmay-jain-a706a428a/]
+- **Project Repository**: github.com/tanmmayyy
+- **Email**: jaintanmay543@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/tanmay-jain-a706a428a/
 
 ---
 
